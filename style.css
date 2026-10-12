@@ -25,7 +25,12 @@ h1{
     text-shadow: black 1px 1px 1px;
 }
 
-p{
+p {
     text-align: justify;
     text-decoration: aqua wavy underline;
+
+    border: 6px solid purple;         
+    border-radius: 16px;            
+    padding: 15px 20px;              
+    margin: 15px 0;                 
 }
