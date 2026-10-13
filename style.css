@@ -34,3 +34,12 @@ p {
     padding: 15px 20px;              
     margin: 15px 0;                 
 }
+
+.img_fondo {
+    background-image: url('lebron.webp');
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+    min-height: 300px;
+    width: 94%;
+}
