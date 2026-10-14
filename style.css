@@ -43,3 +43,15 @@ p {
     min-height: 300px;
     width: 94%;
 }
+
+h2,h3,h4{margin: 3px;}
+
+.my_parag{
+    position: sticky;
+    top: 30px;
+}
+
+.my_parag:hover{
+    background-color: red;
+    color: white;
+}
